@@ -1,3 +1,7 @@
+Data base used is from Kaggle:
+https://www.kaggle.com/datasets/setseries/news-category-dataset
+
+
 In order to categorize another dataset based on an older one using a few columns with different text values, you can follow a machine learning approach, specifically text classification or natural language processing (NLP) techniques. 
 
 ### Step 1: Preprocess Your Data
